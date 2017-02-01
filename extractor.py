@@ -12,10 +12,10 @@ import time
 
 
 
-db_user = "hashes"
-db_pass = "h@5h35"
-db_data = "hashes"
-db_table = "passwords"
+db_user = ""
+db_pass = ""
+db_data = ""
+db_table = ""
 queue_size = 2131072
 
 
