@@ -14,4 +14,4 @@ and insert all the password it contains in a third queue.
 Lastly multiple threads poll this last queue and insert the passwords in a local MySQL database.
 
 # TO DO
-Dynamicaly generate the multiple insert threads and DB connection objects
+Dynamically generate the multiple insert threads and DB connection objects.
