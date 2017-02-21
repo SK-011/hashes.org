@@ -1,5 +1,5 @@
 # hashes.org
-hashes.org cracked passwords recovery tools
+hashes.org cracked passwords recovery tool.
 
 Pretty simple stuff:
 Main thread recover the index of downloadable archives containing cracked passwords.
